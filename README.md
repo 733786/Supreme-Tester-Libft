@@ -1,7 +1,7 @@
 # Supreme-Tester-Libft
 
 # `WARNING`
-This script use some tester made by students of the 42 network, Be aware and teste by you're own, we never know if the moulinette as been updated. See if and where it fails, understand what the testers tell's you.
+This script uses some testers made by students from the 42 network. Be aware and test on your own, we never know when moulinette is updated and the tests changed. See if and where it fails, understand what the testers tell you.
 
 ## Installation
 
@@ -34,4 +34,5 @@ pwd
 | adrossig | https://github.com/adrossig/libft_tester.git |
 
 # `WARNING`
-This script use some tester made by students of the 42 network, Be aware and teste by you're own, we never know if the moulinette as been updated. See if and where it fails, understand what the testers tell's you.
+This script uses some testers made by students from the 42 network. Be aware and test on your own, we never know when moulinette is updated and the tests changed. See if and where it fails, understand what the testers tell you.
+
